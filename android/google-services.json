@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "695524605427",
+    "firebase_url": "https://spacerocketship-a7079.firebaseio.com",
+    "project_id": "spacerocketship-a7079",
+    "storage_bucket": "spacerocketship-a7079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695524605427:android:231d00eb23f11b55",
+        "android_client_info": {
+          "package_name": "com.zouchapps.spacerocketship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695524605427-1vu5iou1j138qgp8nc19afchj4u8cmml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4j7u8tjkuShlBa_LzA4BFflxdUVyb0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

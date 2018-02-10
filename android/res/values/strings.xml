@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">spaceRocket</string>
+    <string name="best_score">0</string>
+
+    <string name="title_activity_test">Test</string>
+
+
+</resources>

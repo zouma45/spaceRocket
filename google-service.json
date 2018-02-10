@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286368658228",
+    "project_id": "spacerocketship-2016305"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286368658228:android:231d00eb23f11b55",
+        "android_client_info": {
+          "package_name": "com.zouchapps.spacerocketship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286368658228-i0q1mbqksjoosb9etkfvrldh73vm3lt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zouchapps.spacerocketship",
+            "certificate_hash": "52A3C662544852E19A8333F455DC10BD8437B99F"
+          }
+        },
+        {
+          "client_id": "286368658228-31u7r30q5csi0k5j765g2q48gmteq6gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9-EJW30EFF6MRg5EJ18qekIJkUZHe7BI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
